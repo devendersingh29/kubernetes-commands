@@ -1,5 +1,6 @@
 # kubernetes-commands
 
+kubectl get ns,ingress,svc,deploy,rs,po,cm,sts,ds,pvc -A > all-resources.txt
 
 # CBT Backfill Script — Command Reference
 
